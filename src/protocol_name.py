@@ -18,7 +18,7 @@ class Test2:
 
 
 def foo(x: Readable):
-    x.read(x=3) # error
+    x.read(x=3)  # error
 
 
 foo(Test())

@@ -1,2 +1,2 @@
 # type-playground
-python type hint tests
+python type hint playground
